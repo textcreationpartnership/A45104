@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An humble representation of the sad condition of many of the Kings party, who since His Majesties happy restauration have no relief, and but languishing hopes together, with proposals how some of them may be speedily relieved, and others assured thereof, within a reasonable time.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45104</idno>
+            <idno type="STC">Wing H3643</idno>
+            <idno type="STC">ESTC R22274</idno>
+            <idno type="EEBO-CITATION">12300173</idno>
+            <idno type="OCLC">ocm 12300173</idno>
+            <idno type="VID">59143</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45104)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59143)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 637:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An humble representation of the sad condition of many of the Kings party, who since His Majesties happy restauration have no relief, and but languishing hopes together, with proposals how some of them may be speedily relieved, and others assured thereof, within a reasonable time.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Seile,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59143:1"/>
+            <!-- PDF PAGE 102 -->
+            <pb facs="tcp:59143:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 102 -->
+            <p>AN HUMBLE Repreſentation OF THE SAD CONDITION Of many of the KINGS PARTY, Who ſince His MAJESTIES Happy Reſtauration have no Relief, and but Languiſhing Hopes.</p>
+            <p>TOGETHER, With Propoſals how ſome of them may be ſpeedily relieved, and others aſſu<g ref="char:EOLhyphen"/>red thereof, within a reaſonable time.</p>
+            <p>Printed for <hi>A. Seile,</hi> in the Year, 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:59143:2"/>
+            <!-- PDF PAGE 103 -->
+            <pb n="3" facs="tcp:59143:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 103 -->
+            <head>An Humble Repreſentation of the ſad Condition of many of the Kings Party, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hat Miſeries and Perſecutions we Royaliſts have ſuffered, for 19 years paſt, None, I preſume, is a ſtranger to, that could ſee, or hear. The VVar began with the Plunder of our Goods, and Seiſure of our Rents, And it end<g ref="char:EOLhyphen"/>ed with the ſale of our Eſtates, or, (at beſt) a Compoſition, which engaged us in debts, The Burthen whereof, where the Parties were either indebted before, or had Families to provide for, could not but be ruinous to them: Such of us, as had no Lands, but lived by their honeſt Endea<g ref="char:EOLhyphen"/>vours, were not only thruſt out of their pro<g ref="char:EOLhyphen"/>per Employments, but made uncapable of any other, that could afford them a tollerable ſub<g ref="char:EOLhyphen"/>ſiſtence; ſo as, many (the moſt deſerving of their Country) have been forced to part with their Inheritances to buy them bread, Others (of free and generous minds) have languiſhed
+<pb n="4" facs="tcp:59143:3"/>
+               <!-- PDF PAGE 104 -->in tedious Impriſonments, Few, in Compariſon of the reſt, by ſingular Providence, and Frugali<g ref="char:EOLhyphen"/>ty, have preſerved themſelves.</p>
+            <p>With what Courage &amp; Conſtancy of Affect<g ref="char:EOLhyphen"/>ion, we have owned our Cauſe, and Party, even then, when, but to name them civilly, was Treaſon, and worſe, (if worſe could be;) VVith what Faith, and Perſeverance we have expected our Kings return, VVith what inviſible Com<g ref="char:EOLhyphen"/>forts, we have ſupported our feeble hopes, at their loweſt Ebbes of outward Poſsibility, whilſt all the Polititians derided us, as fond and credulous Perſons, who, with the Purgatory of wiſe men, purchaſed only the Paradiſe of Fools; A kind of <hi>Alchymiſts,</hi> or <hi>Jews,</hi> who looked for a <hi>Meſsiah,</hi> that would never come; And this Con<g ref="char:EOLhyphen"/>fidence (grounded chiefly on our Integrity,) how it ingaged us in attempts, which, perhaps were more honeſt, than prudent, by oppoſing Plots to Counſels, and Tumults to the beſt Armies, will not (I truſt) be forgotten by Engliſh men in our dayes.</p>
+            <p>Let it not be once Objected, That our endea<g ref="char:EOLhyphen"/>vours were not ſucceſſeful: Rather, let it be Con<g ref="char:EOLhyphen"/>ſtrued to our Advantage, That though our Va<g ref="char:EOLhyphen"/>lour was at firſt unfortunate, yet (through Gods Bleſsing) our cheerful patience hath at length
+<pb n="5" facs="tcp:59143:3"/>
+               <!-- PDF PAGE 104 -->fulfilled our hopes, by degrees, inclining the hearts of the moſt obſtinate to a relenting; VVherein, as our Tryals were ſo our Triumphs are now the greater; For to prevail by Loyal Sufferings, is the Prerogative of true deſert.</p>
+            <p>VVe joyfully, indeed, partake in the Glory of His Majeſties Reſtitution, the Peace of our Country, the ſecurity of Laws, &amp; the Proſpect of future Settlement is moſt pleaſant to us: But, alas, we are ſtill expoſed to the ſame neceſsities, Nay many of us are in worſe Condition, as to lively<g ref="char:EOLhyphen"/>hood, than ever, Partly by exhauſting our ſelves with unuſual: Expences, That we might appear (like our ſelves) concerned in his Majeſties wel<g ref="char:EOLhyphen"/>come, &amp; Coronation; Partly, by proſecuting ho<g ref="char:EOLhyphen"/>neſt, but fruitleſs, Pretences, Chiefly by the fate of Poverty, which, ſeldome, continues, without encreaſing, And (for Accompliſhment of our Miſery,) Hope, (which, hitherto, alone, Be<g ref="char:EOLhyphen"/>friended, &amp; Supported,) hath now forſaken us.</p>
+            <p>Were our preſſures moderate, or common, we ſhould never mention them, but wait yet further upon Providence; for we reckon our Martyrdome ſo honourable, and our Cauſe ſo dear, that none but extreme Exi<g ref="char:EOLhyphen"/>gents would be ſenſible on that behalf, ſuch poverty being (we are ſure) without
+<pb n="6" facs="tcp:59143:4"/>
+               <!-- PDF PAGE 105 -->reproach; Had we complied with any of the late Uſurpers, otherwiſe than as Priſoners muſt comply with Gaolers, we ſhould not have da<g ref="char:EOLhyphen"/>red to look backward, not preſumed to look forward; But Innocency, and Extremity, to<g ref="char:EOLhyphen"/>gether, embolden, or rather compel us to litter our Complaints, where, we think, we may challenge (at leaſt) a favourable Audience.</p>
+            <p>For, ſince the Cauſe, we ſo earneſtly con<g ref="char:EOLhyphen"/>tended for, was (indeed) leaſt of all, our own (who might eaſily have ſaved our ſtakes, as ma<g ref="char:EOLhyphen"/>ny others of the ſame perſwaſion did) and but in part the Kings, principally our Countries, whoſe Liberty, and even its Being was at ſtake; It may ſeem a hard piece of Juſtice, that the price of publick Freedome (when reſto<g ref="char:EOLhyphen"/>red) ſhould be the Ruine (only) of ſuch, as, with their utmoſt perills (chiefly) aſſerted it; And the Nation will appear (at leaſt equally with his Majeſty) concerned in an Expedient, Leſt if the Martyrs, and Champions of their Country be, now, by it, forſaken, (they being diſabled by their ſufferings, and others by their ill ſucceſs diſcouraged,) Hereafter, in the like Exigent, (which God prevent,) our Liberties ſhould find neither Champions, nor Martyrs.</p>
+            <p>It grieves us, in all ſerious Companies, to
+<pb n="7" facs="tcp:59143:4"/>
+               <!-- PDF PAGE 105 -->meet with theſe and the like Reflections; How will it diſcourage our tender Plants of Loyalty, to be the Spectators of its Ruine! How will it multiply Neuters, to obſerve noble Families ex<g ref="char:EOLhyphen"/>tirpated, and their Eſtates poſſeſſed (as many will be apt enough to collect) by wiſer men, <hi>(viz)</hi> ſuch as took the ſtrongeſt ſide! And may not the next Generation, from ſuch Premiſſes, draw this Concluſion, <hi>He loves danger too well, that loves it for its own ſake?</hi>
+            </p>
+            <p>Certainly, It were too much ignorance in us to ſuppoſe, that his Majeſty is able to contri<g ref="char:EOLhyphen"/>bute, in any proportion, to our relief; Rather, we are ſenſible, that ſhould He impoveriſh himſelf, to gratifie us, He would ſoon be in a Condition, neither to ſupport us, not himſelf; Beſides, we are ſatisfied of his kindneſs to<g ref="char:EOLhyphen"/>wards us; But our recourſe is (properly) to the Parliament, who, (being equally concerned,) can relieve us more powerfully, and with leſſe exception, wherein, we doubt not of his Ma<g ref="char:EOLhyphen"/>jeſties gracious Concurrence, and Furtherance.</p>
+            <p>Wherefore, not to importune his Majeſty (who no doubt, hath a real and tender Sym<g ref="char:EOLhyphen"/>pathy for us) we do, (with much freedome, but with all ſubmiſſion,) declare to our Re<g ref="char:EOLhyphen"/>preſentatives, (as to good Engliſhmen.) That,
+<pb n="8" facs="tcp:59143:5"/>
+               <!-- PDF PAGE 106 -->as we, on our part, ſhall for publick good, as cheerfully Subſcribe to the general Indemnity, (when by their wiſdomes confirmed) as any that have Benefit thereby, ſo, if they, on their part, ſhall, (by Confirming it,) intercept thoſe Remedies, which the Law, (our great Birth<g ref="char:EOLhyphen"/>right,) would afford us; We conceive, they Oblige themſelves to ſtudy ſomewhat of Re<g ref="char:EOLhyphen"/>compenſe, Leaſt they give us ſubject of Com<g ref="char:EOLhyphen"/>plaint, That (in ſuch an Oblivion,) they did, but too well remember our Enemies, and only forget Us.</p>
+            <p>And in truth, we hope, that the people in general, whoſe peace is (thereby) Eſtabliſhed, our friends in particular, whoſe honour is (there<g ref="char:EOLhyphen"/>by) aſſerted, but eſpecially our late Adverſaries, whoſe Intereſts are (thereby) redeemed at our Expence, will, frankly, approve of ſuch moderate ſatisfaction to us, as the Parliament, in their wiſ<g ref="char:EOLhyphen"/>doms, ſhall think reaſonable.</p>
+            <p>The rather, for that the Arrears of the late Army and Navy (though contracted, (moſt of them) in times of Uſurpation) being, in effect, diſcharged, Thoſe of his Majeſties party in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> provided for, by ſpecial Allotments, in his Majeſties late gracious Declaration, concerning that Kingdome; The Purchaſsers of Crown and
+<pb n="9" facs="tcp:59143:5"/>
+               <!-- PDF PAGE 106 -->Church Lands protected by his Majeſties Com<g ref="char:EOLhyphen"/>miſſion in their Favours, The Clergy, not only reſtored to their Improved Poſſeſſions, but to fines of twenty years growth, many private Per<g ref="char:EOLhyphen"/>ſons rewarded with great Gifts, Offices, &amp; Ho<g ref="char:EOLhyphen"/>nours; VVe only ſhall ſeem abandoned as wor<g ref="char:EOLhyphen"/>thy of nothing but pity from thoſe that will vouchſafe it, unleſs our Condition may be con<g ref="char:EOLhyphen"/>ſidered by our Country, in this Parliament.</p>
+            <p>Wherein, for their Encouragement, we aſſure them, Our Pretences are not lofty, we covet not to engroſſe the plenty of the Nation, by purchaſing Palaces and Parks with our De<g ref="char:EOLhyphen"/>benturs; No; the ſum of our misfortune is, That, in this Eſtate, we are not only burthen ſome to our ſelves and friends, but uſeleſſe to our King and Country; Alas, we have too long conver<g ref="char:EOLhyphen"/>ſed with Ruine, to conceive vaſt hopes; And, if (upon ſerious ſcrutiny) greater difficulties ſhould appear, than we imagine, It is our known Fundamental to acquieſce in the Judg<g ref="char:EOLhyphen"/>ment of our Superiours, Only we beg, That our Caſe may be judged, to deſerve ſome pub<g ref="char:EOLhyphen"/>lick Conſideration; For (however) it will much enliven us, to find our ſelves not wholy deſpiſed, but that Expedients to relieve us, are, (at leaſt) debated, For which we humbly Of<g ref="char:EOLhyphen"/>fer theſe our Propoſals.</p>
+            <p>
+               <pb n="10" facs="tcp:59143:6"/>
+               <!-- PDF PAGE 107 -->
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> That the greateſt Services may be moſt re<g ref="char:EOLhyphen"/>warded, but the greateſt Neceſſities firſt re<g ref="char:EOLhyphen"/>leived.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> That his Majeſty would be graciouſly plea<g ref="char:EOLhyphen"/>ſed to take an Accompt of all his Gifts and Grants, and ſuſpend the conferring of any more, till perſons of the higheſt ſufferings and deſerts be, in ſome ſort, Accommodated.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> That the ſufferings, wants, and merits of Pretenders may be examined by ſelect Com<g ref="char:EOLhyphen"/>mitties, and certified to his Majeſty, And that his Majeſty would accordingly provide for their releif, by giving expreſſe Order for their Admittance to ſuch Vacant Employments as they are capable of, without referring them to ſurbordinate Officers, whereby they may be wearied with attendance, and his Majeſties grace unto them fruſtrated.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="IV"/> In caſe Vacancies be not found competent, that then Reverſions may be aſſured to others.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="V"/> That ſuch as have plentiful Eſtates, Or have, already, Obtained any Conſiderable grant from the Kings bounty, may be poſtponed, in his Majeſties, and the Parliaments Conſideration.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VI"/> That ſuch as ſhall appear to have unworthily betraied, or, any waies, deſerted his Majeſties party, may be, from thence, wholy, excluded.</p>
+            <p>
+               <pb n="11" facs="tcp:59143:6"/>
+               <!-- PDF PAGE 107 -->
+               <milestone type="tcpmilestone" unit="unspecified" n="VII"/> That deſerving Tenants of Biſhops, Deans and Chapters, &amp;c. may be, generally, and effect<g ref="char:EOLhyphen"/>ually recommended to the Churches favour, in their great plenty, to accept of moderate Fines from them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VIII"/> That the like publick recommendation may be to all his Majeſties chief Miniſters, Officers and Commanders, for the employing, counte<g ref="char:EOLhyphen"/>nancing, and encouraging, (by all lawful means,) ſuch as have eminently deſerved, or ſuffered for his Majeſtie.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="IX"/> That for ſuch Souldiers and Sufferers of his Majeſties party, as are Old, Maimed, without Callings, or Stocks to Exerciſe them, Proviſion may be made, according to their Conditions, <hi>(viz.)</hi> For ſome of them, good Hoſpitals, the Founders whereof, doubtleſſe, (could they ſpeak out of their graves,) would ſo direct; For others, reaſonable ſums, or ſmall Annuities, but duly paid, That they may no more depend on private Almes, which many cannot find, and ſome cannot ſeek; This, we ſuppoſe, will prove rather matter of Care, than much Charge.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="X"/> That the Parliament would lay ſome pub<g ref="char:EOLhyphen"/>lick Aſſeſſement, ſuch as they ſhall think rea<g ref="char:EOLhyphen"/>ſonable, (Our Countries poverty being conſi<g ref="char:EOLhyphen"/>dered, as well as ours,) to be diſtributed by his
+<pb n="12" facs="tcp:59143:7"/>
+               <!-- PDF PAGE 108 -->Majeſties direction, amongſt the ſurviving Of<g ref="char:EOLhyphen"/>ficers and Souldiers of his Majeſties Armies and thoſe of the late King, of bleſsed memory, who never received any recompence of their Service, Whoſe number being much contracted by time, and other Accidents, The Bulk will not prove ſo great, as, perhaps, it ſeemes.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="XI"/> That the Children of ſuch, as have been ſa<g ref="char:EOLhyphen"/>crificed, Or dyed in the bed of honour, and in memorable Action, for his Majeſty, (whoſe Catalogue is eaſily known) may, in due time, reap the fruits of their Fathers Martyrdome. And, for the preſent, receive ſome Character of ſignal favour, from their Country, to be tranſ<g ref="char:EOLhyphen"/>mitted to poſterity, for the Encouragement of them and theirs, to follow the footſteps of their noble Progenitors, to ſtir up, in others an Emu<g ref="char:EOLhyphen"/>lation of ſuch Loyalty, and Vertue, And leave the Juſtice of his Majeſties Armes, ſufficiently Vindicated to future Ages.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:59143:7"/>
+            <!-- PDF PAGE 108 -->
+         </div>
+      </body>
+   </text>
+</TEI>
